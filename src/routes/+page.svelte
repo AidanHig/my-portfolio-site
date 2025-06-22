@@ -4,11 +4,12 @@
 <script>
   import FandF from '$lib/assets/FandF.png';
   import Fireball from '$lib/assets/Fireball.png';
+  import HappyDriver from '$lib/assets/godot.png'
 
   const featuredProjects = [
     {
       title: "Body and Soul",
-      description: "A 2v2 ability based MOBA. Fight as a monk or a spirit tethered together and select upgrades to defeat your opponents!",
+      description: "A 2v2 ability based MOBA. Fight as a monk or a spirit tethered together and select upgrades to defeat your opponents! Made in Unity",
       videoUrl: "https://www.youtube.com/embed/qs-WRy48GvI",
       links: [
         { label: "Download on itch.io", url: "https://bighig.itch.io/body-and-soul" }
@@ -25,9 +26,9 @@
   ];
 
   const prototypes = [
-    { title: "Fortify and Funnel", description: "Build barricades to keep the evil skeletons away from your base!", link: "https://bighig.itch.io/fortify-and-funnel", image: FandF },
-    { title: "Fireball", description: "Cast spells by drawing runes and speaking (yelling) into your mic at the same time.", link: "https://illuminati-cow.itch.io/fireball", image: Fireball },
-    // { title: "Tradio", description: " ", link: "https://illuminati-cow.itch.io/tradio", image: ProceduralDungeonImg }
+    { title: "Fortify and Funnel", description: "Build barricades to keep the evil skeletons away from your base (Unity)", link: "https://bighig.itch.io/fortify-and-funnel", image: FandF },
+    { title: "Fireball", description: "Cast spells by drawing runes and speaking (yelling) into your mic at the same time (UE5)", link: "https://illuminati-cow.itch.io/fireball", image: Fireball },
+    { title: "Happy Driver", description: "Change the radio station and music volume to keep your driver happy (Godot)", link: "https://bighig.itch.io/happy-driver", image: HappyDriver }
   ];
 </script>
 
