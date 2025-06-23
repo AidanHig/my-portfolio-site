@@ -18,7 +18,7 @@
     {
       title: "Galacic Coffee Shop",
       description: "Grow your coffee enterprise from a single stand to an empire stretching across the stars! Go from grinding beans to hiring employees to buying buildings to consuming planets! Bring the gift of coffee to the stars!",
-      videoUrl: "https://www.youtube.com/embed/nWmT8oGho5c",
+      videoUrl: "https://www.youtube.com/embed/1F3B8xAAKe8",
       links: [
         { label: "Steam demo", url: "https://store.steampowered.com/app/3692320/Galactic_Coffee_Shop/" }
       ]
